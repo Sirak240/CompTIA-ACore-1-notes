@@ -25,8 +25,8 @@ To create the certificate we would need a Certificate Authority (CA)
 Gap Analysis//
 The gap analysis is the study of where we are and where we want to be. The analysis is used to figure what security is needed in the future. Before stating a gap analysis we should use a baselines such as the ISO/IEC 27001 and NIST.
 
-Zero Trust//
-This is where you have to authenticate yourself or prove yourself to gain access to specific resource. For this process everything needs to be verified
+Zero Trust:
+- This is where you have to authenticate yourself or prove yourself to gain access to specific resource. For this process everything needs to be verified
 Controlling Trust//
 
 Technical Change Management//
