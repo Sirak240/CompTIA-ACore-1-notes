@@ -1,5 +1,5 @@
 The CIA Triad//
-This is an easy way to remember i.t. security. The (C) is for -prevent discosure of information to unauthorized individuals or systems. The (I) is messages can not be modified without detection. (A) means systems and network must be up and running.
+This is an easy way to remember i.t. security. The (C) is for -prevent discourse of information to unauthorized individuals or systems. The (I) is messages can not be modified without detection. (A) means systems and network must be up and running.
 
 Integrity//
 Hashing can be used to provide integrity. If your hash matches the senders hash then its the same as it was sent.
@@ -29,7 +29,14 @@ Zero Trust//
 This is where you have to authenticate yourself or prove yourself to gain access to specific resource. For this process everything needs to be verified
 Controlling Trust//
 
+Technical Change Management//
+The change control process comes in many forms, the technician will preform the changes and the technical team would analyze what needs to be changed. The technician has an (Allow List/Deny List). The purpose of it is to prevent certain applications from working. It's necessary to have because certain applications could be dangerous, therefor it would be on the deny list. Allowlist will have the applications that will run in the workstations.
 
+Implicit Deny and Implicit Allow//
+
+- Implicit Deny is where all of the network traffic is denied by default.
+  - We a allowed list because were allowing certain networks from the Implicit Deny
+  - 
 
 
 
