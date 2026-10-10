@@ -1,5 +1,5 @@
 IP-Internet Protocol 
-- When were sending information from a laptop to a server were using ethernet network.
+- Wåhen were sending information from a laptop to a server were using ethernet network.
 - Information being sent across the network is the ethernet payload, the information at the
   beginning is the ethernet header and at the end ethernet trailer.
 
